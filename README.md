@@ -1,2 +1,2 @@
 # CS50x
-Harvard CS50x 2020
+Documenting my progress through the CS50x course by Harvard University.
