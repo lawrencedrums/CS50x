@@ -6,7 +6,7 @@ Documenting my progress through the CS50x course offered by Harvard University o
 ## Introduction
 >Demanding, but definitely doable. Social, but educational. 
 
-I first enrolled back in 2018 but only managed to finish the week 2 problem set. After that I lost motivation and interest, thinking C and the following problem sets are too difficult for me. Thanks to all the wonderful teaching staffs of CS50x, through their precise and clear explainations, and with a healthy dose of humor, I rediscovered my curiousity for computer science and the joy of programming. CS50x is definintly life-changing and eye-opening experience for me.
+I first enrolled back in 2018 but only managed to finish the week 2 problem set. After that I lost motivation and interest, thinking C and the following problem sets are too difficult for me. Thanks to all the wonderful teaching staffs of CS50x, through their precise and clear explainations, and with a healthy dose of humor and eastereggs, I rediscovered my curiousity for computer science and the joy of programming. CS50x is definintly life-changing and eye-opening experience for me.
 
 In this repository I will upload every problem set I completed. While these programs are not even close to perfection, I think this is a great chance to start building my portfolio on Github and get comfortable with how this beautiful site works. 
 
