@@ -12,37 +12,36 @@ In this repository I will upload every problem set I completed. While these prog
 
 Please feel free to ask me any questions on any of my programs. If you're currently enrolled in CS50x please don't just blindly copy and paste my work. Look at the codes, understand how they work, try them out in your sandbox. Once you're confident, close this tab and write your own versions, that's when you know you've truely learnt :D I wish you all good luck!
 
-## Problem Set 1
-[Hello](hello.c)
-
-Mario - Less
-
-Mario - More
+### Problem Set 1
+ - [Hello](hello.c)
+ - Mario
+   - Less
+   - [More](C/pset1/mario/more/mario.c)
  
-Cash
+- [Cash](C/pset1/credit.c)
 
-Credit
+ - Credit
 
-## Problem Set 2
-Readability
+### Problem Set 2
+ - [Readability](C/pset2/readability.c)
 
-Caesar
+ - Caesar
 
-Subsititution
+ - [Subsititution](C/pset2/substitution.c)
 
-## Problem Set 3
-Plurality
+### Problem Set 3
+ - [Plurality](C/pset3/plurality.c)
 
-Runoff
+ - Runoff
 
-Tideman
+ - [Tideman](C/pset3/tideman.c)
 
-## Problem Set 4
-Filter - Less
+### Problem Set 4
+ - Filter 
+   - Less
+   - [More](C/pset4/filter/more/helpers.c)
 
-Filter - More
+ - [Recover](C/pset4/recover.c)
 
-Recover
-
-## Problem Set 5
-Speller
+### Problem Set 5
+ - Speller
