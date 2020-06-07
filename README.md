@@ -44,4 +44,4 @@ Please feel free to ask me any questions on any of my programs. If you're curren
  - [Recover](C/pset4/recover.c)
 
 ### Problem Set 5
- - Speller
+ - [Speller](C/pset5/speller.c)
