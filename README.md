@@ -47,15 +47,15 @@ Please feel free to ask me any questions on any of my programs. If you're curren
  - [Speller](C/pset5/speller.c)
 
 ### Problem Set 6
- - Hello
+ - [Hello](Python/pset6/hello.py)
  
  - Mario
    - Less
-   - More
+   - [More](Python/pset6/mario_more.py)
    
  - Cash
- - Credit
+ - [Credit](Python/pset6/credit.py)
  
- - Readability
+ - [Readability](Python/pset6/readability.py)
  
- - DNA
+ - [DNA](Python/pset6/dna.py)
