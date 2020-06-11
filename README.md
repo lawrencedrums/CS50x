@@ -14,13 +14,13 @@ Please feel free to ask me any questions on any of my programs. If you're curren
 
 ### Problem Set 1
  - [Hello](C/pset1/hello.c)
+ 
  - Mario
    - Less
    - [More](C/pset1/mario/more/mario.c)
- 
-- [Cash](C/pset1/credit.c)
-
- - Credit
+   
+ - Cash
+ - [Credit](C/pset1/credit.c)
 
 ### Problem Set 2
  - [Readability](C/pset2/readability.c)
@@ -45,3 +45,17 @@ Please feel free to ask me any questions on any of my programs. If you're curren
 
 ### Problem Set 5
  - [Speller](C/pset5/speller.c)
+
+### Problem Set 6
+ - Hello
+ 
+ - Mario
+   - Less
+   - More
+   
+ - Cash
+ - Credit
+ 
+ - Readability
+ 
+ - DNA
