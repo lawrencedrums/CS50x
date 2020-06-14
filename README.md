@@ -50,5 +50,5 @@ Please feel free to ask me any questions on any of my programs. If you're curren
  - [DNA](Python/pset6/dna.py)
 
 ## Problem Set 7
- - [Movies](SQL/pset7)
+ - [Movies](SQL/Pset7)
  - [Houses](Python/pset7)
