@@ -12,50 +12,43 @@ In this repository I will upload every problem set I completed. While these prog
 
 Please feel free to ask me any questions on any of my programs. If you're currently enrolled in CS50x please don't just blindly copy and paste my work. Look at the codes, understand how they work, try them out in your sandbox. Once you're confident, close this tab and write your own versions, that's when you know you've truely learnt :D I wish you all good luck!
 
-### Problem Set 1
+## Problem Set 1
  - [Hello](C/pset1/hello.c)
- 
  - Mario
    - Less
    - [More](C/pset1/mario/more/mario.c)
-   
  - Cash
  - [Credit](C/pset1/credit.c)
 
-### Problem Set 2
+## Problem Set 2
  - [Readability](C/pset2/readability.c)
-
  - Caesar
-
  - [Subsititution](C/pset2/substitution.c)
 
-### Problem Set 3
+## Problem Set 3
  - [Plurality](C/pset3/plurality.c)
-
  - Runoff
-
  - [Tideman](C/pset3/tideman.c)
 
 ### Problem Set 4
  - Filter 
    - Less
    - [More](C/pset4/filter/more/helpers.c)
-
  - [Recover](C/pset4/recover.c)
 
-### Problem Set 5
+## Problem Set 5
  - [Speller](C/pset5/speller.c)
 
-### Problem Set 6
+## Problem Set 6
  - [Hello](Python/pset6/hello.py)
- 
  - Mario
    - Less
    - [More](Python/pset6/mario_more.py)
-   
  - Cash
  - [Credit](Python/pset6/credit.py)
- 
  - [Readability](Python/pset6/readability.py)
- 
  - [DNA](Python/pset6/dna.py)
+
+## Problem Set 7
+ - [Movies](SQL/pset7)
+ - [Houses](Python/pset7)
