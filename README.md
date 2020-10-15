@@ -59,3 +59,5 @@ Please feel free to ask me any questions on any of my programs. If you're curren
    - [Finance](Tracks/Web/finance)
 ## Final Project
  - [Sorting Visualizer](https://github.com/lawrencedrums/lawrencedrums.github.io)
+ 
+![CS50x.png](https://github.com/lawrencedrums/CS50x/blob/master/CS50x.png)
