@@ -52,3 +52,10 @@ Please feel free to ask me any questions on any of my programs. If you're curren
 ## Problem Set 7
  - [Movies](SQL/Pset7)
  - [Houses](Python/pset7)
+ 
+## Tracks
+ - Web
+   - [Homepage](Tracks/Web/homepage)
+   - [Finance](Tracks/Web/finance)
+## Final Project
+ - [Sorting Visualizer](https://github.com/lawrencedrums/lawrencedrums.github.io)
