@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+        <h2 style="margin-bottom: 60px">Find out more about your favourite stock.</h2>
+        {% if stockQuote != 0 %}
+            <div class="card" style="width: 18rem; margin: auto; width: 20%;">
+                <div class="card-body">
+                    <h5 class="card-title">{{ stockQuote['name'] }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ stockQuote['symbol'] }}</h6>
+                    <p class="card-text">${{ stockQuote['price'] }} USD</p>
+                </div>
+            </div>
+        {% endif %}
+        <form action="/quote" method="post">
+            <div class="form-group" style="margin: 50px;">
+                <input autocomplete="off" autofocus class="form-control" name="stock" placeholder="Symbol"
+                       type="text" onkeyup="this.value = this.value.toUpperCase();">
+            </div>
+            <button class="btn btn-primary" type="submit">Quote</button>
+        </form>
+{% endblock %}

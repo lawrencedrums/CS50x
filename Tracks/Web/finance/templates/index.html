@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Dashboard
+{% endblock %}
+
+{% block main %}
+        <h2 style="margin-bottom: 60px">Welcome back, {{ username }}.</h2>
+        <div class="alert alert-primary" role="alert" style="font-size: x-large;">
+            Here's your Portfolio.
+        </div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Symbol</th>
+                    <th scope="col">Your shares</th>
+                    <th scope="col">Price per share</th>
+                    <th scope="col">Total Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for stock in stocks %}
+                    <tr>
+                        <td>{{ stock['symbol'] }}</td>
+                        <td>{{ stock['balance'] }}</td>
+                        <td>${{ stock['price'] }}</td>
+                        <td>${{ stock['balance'] * stock['price'] }}</td>
+                    </tr>
+                {% endfor %}
+                <tr>
+                    <td>Cash</td>
+                    <td>/</td>
+                    <td>/</td>
+                    <td>${{ cash }}</td>
+                </tr>
+                <tr>
+                    <th scope="row">Grand Total</th>
+                    <td></td>
+                    <td></td>
+                    <th scope="row">${{ grandTotal }}</th>
+                </tr>
+            </tbody>
+        </table>
+{% endblock %}
